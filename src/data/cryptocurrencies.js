@@ -654,11 +654,11 @@ const cryptocurrenciesById = {
       }
     ]
   },
-  game_credits: {
-    id: "game_credits",
+  gamecredits: {
+    id: "gamecredits",
     coinType: 101,
-    name: "GameCredits",
-    managerAppName: "GameCredits",
+    name: "Gamecredits",
+    managerAppName: "Gamecredits",
     ticker: "GAME",
     scheme: "game",
     color: "#24485D",
