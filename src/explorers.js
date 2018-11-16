@@ -19,6 +19,7 @@ export const defaultExplorers: CryptoCurrencyConfig<Explorer> = {
   clubcoin: hash => `https://chainz.cryptoid.info/club/tx.dws?${hash}.htm`,
   dash: hash => `https://explorer.dash.org/tx/${hash}`,
   decred: hash => `https://mainnet.decred.org/tx/${hash}`,
+  gamecredits: hash => `https://www.gamecredits.network/tx/${hash}`,
   digibyte: hash => `https://digiexplorer.info/tx/${hash}`,
   dogecoin: hash => `https://dogechain.info/tx/${hash}`,
   ellaism: () => null,
