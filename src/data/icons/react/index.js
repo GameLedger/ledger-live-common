@@ -4,6 +4,7 @@ export { default as clubcoin } from "./clubcoin";
 export { default as dascoin } from "./dascoin";
 export { default as dash } from "./dash";
 export { default as decred } from "./decred";
+export { default as gamecredits } from "./gamecredits";
 export { default as digibyte } from "./digibyte";
 export { default as dogecoin } from "./dogecoin";
 export { default as ethereumClassic } from "./ethereumClassic";
